@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Implants -->
+  <HediffDef ParentName="ImplantHediffBase">
+    <defName>GlitterFilter</defName>
+    <label>glitter filter</label>
+    <description>glitter filter</description>
+    <labelNoun>a glitter filter</labelNoun>
+    <stages>
+      <li>
+        <statOffsets>
+          <ToxicResistance>0.75</ToxicResistance>
+        </statOffsets>
+      </li>
+    </stages>
+    <spawnThingOnRemoved>Apparel_GlitterFilter</spawnThingOnRemoved>
+  </HediffDef>
+</Defs>
