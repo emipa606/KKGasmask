@@ -33,6 +33,7 @@
       <ToxicResistance>0.5</ToxicResistance>
       <MoveSpeed>-0.02</MoveSpeed>
       <ShootingAccuracyPawn>-0.1</ShootingAccuracyPawn>
+      <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.9</ToxicEnvironmentResistance>
     </equippedStatOffsets>
     <apparel>
       <bodyPartGroups>
@@ -82,6 +83,7 @@
     </statBases>
     <equippedStatOffsets>
       <ToxicResistance>0.35</ToxicResistance>
+      <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.5</ToxicEnvironmentResistance>
     </equippedStatOffsets>
     <apparel>
       <bodyPartGroups>
@@ -151,6 +153,7 @@
     </statBases>
     <equippedStatOffsets>
       <ToxicResistance>0.75</ToxicResistance>
+      <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">1</ToxicEnvironmentResistance>
     </equippedStatOffsets>
     <apparel>
       <bodyPartGroups>
