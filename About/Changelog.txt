@@ -1,5 +1,8 @@
 # Changelog for KKGasmask
 
+1.5.0 - Updated for 1.5
+
+
 1.4.2 - Added ToxicEnvironmentResistance if Biotech is active
 
 

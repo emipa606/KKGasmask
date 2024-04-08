@@ -5,6 +5,8 @@
 Update of Kilian Kilmisters mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1324072345
 
+- Added ToxicEnvironmentResistance if Biotech is active
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
