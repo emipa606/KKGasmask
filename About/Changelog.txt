@@ -1,5 +1,8 @@
 # Changelog for KKGasmask
 
+1.5.1 - Spelling error fix
+
+
 1.5.0 - Updated for 1.5
 
 

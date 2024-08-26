@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Apparel_GasMask.label>gas mask</Apparel_GasMask.label>
-  <Apparel_GasMask.description>A gas mask used to lessen the effect of toxic fallout. It restricts the field of view and makes aming difficult.</Apparel_GasMask.description>
+  <Apparel_GasMask.description>A gas mask used to lessen the effect of toxic fallout. It restricts the field of view and makes aiming difficult.</Apparel_GasMask.description>
   <Apparel_FilterCloth.label>filter cloth</Apparel_FilterCloth.label>
   <Apparel_FilterCloth.description>A simple fine woven piece of cloth to lessen the effect of toxic fallout.</Apparel_FilterCloth.description>
   <Apparel_GlitterFilter.label>glitter filter</Apparel_GlitterFilter.label>
