@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install glitter filter -->
+  <InstallGlitterFilter.label>install glitter filter</InstallGlitterFilter.label>
+  <!-- EN: Installs glitter filter. -->
+  <InstallGlitterFilter.description>Installs glitter filter.</InstallGlitterFilter.description>
+  <!-- EN: Installing glitter filter. -->
+  <InstallGlitterFilter.jobString>Installing glitter filter.</InstallGlitterFilter.jobString>
+</LanguageData>

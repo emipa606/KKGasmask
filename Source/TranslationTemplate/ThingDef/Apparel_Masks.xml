@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: filter cloth -->
+  <Apparel_FilterCloth.label>filter cloth</Apparel_FilterCloth.label>
+  <!-- EN: A simple fine woven piece of cloth to lessen the effect of toxic fallout. -->
+  <Apparel_FilterCloth.description>A simple fine woven piece of cloth to lessen the effect of toxic fallout.</Apparel_FilterCloth.description>
+  <!-- EN: gas mask -->
+  <Apparel_GasMask.label>gas mask</Apparel_GasMask.label>
+  <!-- EN: A gas mask used to lessen the effect of toxic fallout. It restricts the field of view and makes aiming difficult. -->
+  <Apparel_GasMask.description>A gas mask used to lessen the effect of toxic fallout. It restricts the field of view and makes aiming difficult.</Apparel_GasMask.description>
+  <!-- EN: glitter filter -->
+  <Apparel_GlitterFilter.label>glitter filter</Apparel_GlitterFilter.label>
+  <!-- EN: An advanced toxin filter used like a mouth guard or directly implanted into the neck -->
+  <Apparel_GlitterFilter.description>An advanced toxin filter used like a mouth guard or directly implanted into the neck</Apparel_GlitterFilter.description>
+</LanguageData>
